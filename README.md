@@ -1,4 +1,4 @@
-## Self-instruction-project
+## Self-instruction-project by *Alice HWANG*
 Hello there!\
 This repository holds my programming project duing Stanford CS106A course period.
 
