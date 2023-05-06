@@ -2,5 +2,4 @@
 Hello there!\
 This repository holds my programming project duing Stanford CS106A course period.
 
-## The files name correspond to my learning process on proposal
-
+##### Click *Self-instruction-project* to check my work!
